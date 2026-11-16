@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AeroNaut</string>
+    <string name="title_txtView">AeroNaut</string>
+    <string name="credits_txtView">Crediti: 100</string>
+    <string name="puntata_lbl">Puntata</string>
+    <string name="puntata_editTxt">Inserisci la puntata</string>
+    <string name="start_btn">Inizia round</string>
+    <string name="default_multiplier">1.00x</string>
+
+</resources>
